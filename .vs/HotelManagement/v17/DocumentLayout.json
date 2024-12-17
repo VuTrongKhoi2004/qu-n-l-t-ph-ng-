@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HotelManagementWithASP.NET2-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\bookinghistoryofuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\bookinghistoryofuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\admin\\qldichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\admin\\qldichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\admin\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\admin\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\phongdon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\phongdon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\phonggiadinh.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\phonggiadinh.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\phongvip.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\phongvip.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\hotel3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\hotel3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\hotel2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\hotel2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\hotel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\hotel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\wwwroot\\pictures\\87932.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:wwwroot\\pictures\\87932.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\models\\orderphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:models\\orderphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\admin\\qltaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\admin\\qltaikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\admin\\qluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\admin\\qluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\admin\\qlphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:views\\admin\\qlphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\dulieu.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:dulieu.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:55:29.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:27:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:27:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:28:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SignupController.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "Controllers\\SignupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:28:01.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IRepository.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\IRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA6wHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:20:49.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingHistoryOfUser.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\BookingHistoryOfUser.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingHistoryOfUser.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\BookingHistoryOfUser.cs*",
+              "RelativeToolTip": "Controllers\\BookingHistoryOfUser.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:27:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAGgBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:20:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\Repository.cs",
+              "RelativeToolTip": "DataAccess\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAANkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:20:49.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLDichVu.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLDichVu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\QLDichVu.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLDichVu.cshtml",
+              "RelativeToolTip": "Views\\Admin\\QLDichVu.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:48:06.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "chiTietHoaDon.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\chiTietHoaDon.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\chiTietHoaDon.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\chiTietHoaDon.cshtml",
+              "RelativeToolTip": "Views\\Admin\\chiTietHoaDon.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:45:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "phongdon.png",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phongdon.png",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\phongdon.png",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phongdon.png",
+              "RelativeToolTip": "wwwroot\\pictures\\phongdon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:22.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "phonggiadinh.jpg",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phonggiadinh.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\phonggiadinh.jpg",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phonggiadinh.jpg",
+              "RelativeToolTip": "wwwroot\\pictures\\phonggiadinh.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "phongvip.jpg",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phongvip.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\phongvip.jpg",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\phongvip.jpg",
+              "RelativeToolTip": "wwwroot\\pictures\\phongvip.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:17.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hotel3.jpg",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel3.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\hotel3.jpg",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel3.jpg",
+              "RelativeToolTip": "wwwroot\\pictures\\hotel3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "hotel2.jpg",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel2.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\hotel2.jpg",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel2.jpg",
+              "RelativeToolTip": "wwwroot\\pictures\\hotel2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:12.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "hotel1.jpg",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\hotel1.jpg",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\hotel1.jpg",
+              "RelativeToolTip": "wwwroot\\pictures\\hotel1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:07.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "87932.png",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\87932.png",
+              "RelativeDocumentMoniker": "wwwroot\\pictures\\87932.png",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\wwwroot\\pictures\\87932.png",
+              "RelativeToolTip": "wwwroot\\pictures\\87932.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-04T04:45:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "log.txt",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\log.txt",
+              "RelativeDocumentMoniker": "log.txt",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\log.txt",
+              "RelativeToolTip": "log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T04:44:55.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderPhong.cs",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Models\\OrderPhong.cs",
+              "RelativeDocumentMoniker": "Models\\OrderPhong.cs",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Models\\OrderPhong.cs",
+              "RelativeToolTip": "Models\\OrderPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:44:45.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QLUser.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\QLUser.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\QLUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "header.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Shared\\header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\header.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Shared\\header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\header.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAASwEoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Shared\\footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\footer.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Shared\\footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QLPhong.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLPhong.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\QLPhong.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLPhong.cshtml",
+              "RelativeToolTip": "Views\\Admin\\QLPhong.cshtml",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAawMEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QLTaiKhoan.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLTaiKhoan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\QLTaiKhoan.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Admin\\QLTaiKhoan.cshtml",
+              "RelativeToolTip": "Views\\Admin\\QLTaiKhoan.cshtml",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAuwO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\Index.cshtml",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "Views\\Room\\Index.cshtml",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAowGcBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:20:49.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dulieu.sql",
+              "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\dulieu.sql",
+              "RelativeDocumentMoniker": "dulieu.sql",
+              "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\dulieu.sql",
+              "RelativeToolTip": "dulieu.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-04T04:20:49.555Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
