@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\bookinghistoryofuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2C5C2D9-B484-46F9-8FFA-885FB8C1342A}|HotelManagement.csproj|e:\\hotelmanagementwithasp.net2-master\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SessionExtensions.cs",
               "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Extensions\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -202,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\IRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\IRepository.cs",
@@ -220,14 +220,14 @@
               "RelativeDocumentMoniker": "Controllers\\BookingHistoryOfUser.cs",
               "ToolTip": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\BookingHistoryOfUser.cs",
               "RelativeToolTip": "Controllers\\BookingHistoryOfUser.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T04:27:56.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
               "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -251,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\HotelManagementWithASP.NET2-master\\DataAccess\\Repository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repository.cs",
